@@ -2,4 +2,4 @@ Simple Python project:
 
 Objectives:
 
-Revise fundamental Python concepts# simple_racing_game
+Revise fundamental Python concepts
