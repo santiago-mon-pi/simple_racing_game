@@ -1,12 +1,12 @@
 import pygame
 from pygame.locals import *
 
-size = width, height (800, 800)
+size = width, height = (800, 800)
 
 pygame.init()
 running = True
 # set window size
-screen = pygame.display.set_mode((800, 800))
+screen = pygame.display.set_mode((size))
 # sets title
 pygame.display.set_caption("Monpi's race game")
 #set background color
